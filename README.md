@@ -1,4 +1,4 @@
-## Hi there 👋
+## Every day is a chance to begin again 🌸🌷😊
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=184931758" target="_blank" style="display: block" align="center">
   <picture>
