@@ -1,4 +1,8 @@
-## Every day is a chance to begin again 🌸🌷😊
+## Hello, I'm Swapnaja 🌸
+
+Aspiring Software Developer with a strong interest in Artificial Intelligence & Machine Learning, Java, and MERN stack development.  
+
+### _Every day is a chance to begin again_ 🌷
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=184931758" target="_blank" style="display: block" align="center">
   <picture>
