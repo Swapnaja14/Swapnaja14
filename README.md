@@ -1,4 +1,6 @@
-## Hello, I'm Swapnaja 🌸
+<a href="https://github.com/OstinUA">
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Hello%2C%20I%20am%20Swapnaja%20!!&animation=typing&color=f702aa&background=00000000&size=22&font=code&duration=5000&pause=1000&width=435&height=50&letterSpacing=normal&center=false&vCenter=false&multiline=false&repeat=true&random=false" alt="SVG Animation" />
+</a>
 
 Aspiring Software Developer with a strong interest in Artificial Intelligence & Machine Learning, Java, and MERN stack development.  
 
